@@ -1,0 +1,7 @@
+# Phase 1 — Calm, simple logging
+
+Implement only the supplied Phase 1. Today starts a local empty workout without creating a database record. Remove existing empty unfinished workouts only; retain all completed logs and drafts containing exercises. Replace the old tour with two inline, screen-specific tips, persisted as dismissed per account, never positioned over Save or Finish. Show one chart point per workout using its best set.
+
+Workout logging shows Weight and Reps only, copies the previous set when adding a set, uses decimal-safe inputs with weight adjustment controls, and offers optional Easy/Good/Hard feedback. Preserve internal effort values for recommendations without showing technical terms. Show Last time beneath the exercise name and reserve a footer for Finish workout. Sharing is one clear Share with friends On/Off control; no friends means Off and settings Off must not be overridden by reads. Today greets with the first name, focuses on recent history after logging, and leaves plans and templates behind More. Navigation is Today, Progress, Friends, More. Replace calculated-max jargon with Best lift and its short explanation. Do not require email verification.
+
+Validate TypeScript, lint, existing tests, and a new-account walkthrough at a 390px viewport; fix observed issues before delivery. Preserve history and existing search, signup, and visual style. Do not publish without a current request; deliver the saved preview for this phase.
