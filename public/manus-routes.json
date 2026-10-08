@@ -1,0 +1,108 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Workouts"
+    },
+    {
+      "path": "/plans",
+      "title": "Plans"
+    },
+    {
+      "path": "/templates",
+      "title": "Templates"
+    },
+    {
+      "path": "/progress",
+      "title": "Progress"
+    },
+    {
+      "path": "/friends",
+      "title": "Friends"
+    },
+    {
+      "path": "/friends/invite",
+      "title": "Invite a friend"
+    },
+    {
+      "path": "/friend-invite",
+      "title": "Add a friend"
+    },
+    {
+      "path": "/friends/:id",
+      "title": "Friend profile"
+    },
+    {
+      "path": "/settings",
+      "title": "Settings"
+    },
+    {
+      "path": "/coach",
+      "title": "Coach workspace"
+    },
+    {
+      "path": "/coach/client/:id",
+      "title": "Coach athlete detail"
+    },
+    {
+      "path": "/privacy",
+      "title": "Privacy and data"
+    },
+    {
+      "path": "/onboarding",
+      "title": "Training setup"
+    },
+    {
+      "path": "/guide",
+      "title": "Quick guide"
+    },
+    {
+      "path": "/auth",
+      "title": "Sign in"
+    },
+    {
+      "path": "/reset-password",
+      "title": "Password recovery"
+    },
+    {
+      "path": "/verify-email",
+      "title": "Email verification"
+    },
+    {
+      "path": "/invite",
+      "title": "Coach invitation"
+    },
+    {
+      "path": "/workout/:id",
+      "title": "Workout"
+    },
+    {
+      "path": "/exercise/:id",
+      "title": "Exercise detail"
+    },
+    {
+      "path": "/plan",
+      "title": "Program plan"
+    },
+    {
+      "path": "/plan/import",
+      "title": "Import trainer plan"
+    },
+    {
+      "path": "/plan/workout/:id",
+      "title": "Plan workout editor"
+    },
+    {
+      "path": "/more",
+      "title": "More"
+    },
+    {
+      "path": "/finish/:id",
+      "title": "Workout finished"
+    },
+    {
+      "path": "/first-lift",
+      "title": "Your first lift"
+    }
+  ]
+}
