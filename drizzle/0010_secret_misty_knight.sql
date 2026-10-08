@@ -1,0 +1,1 @@
+ALTER TABLE `user_settings` ADD `tipsDismissed` int DEFAULT 0 NOT NULL;
